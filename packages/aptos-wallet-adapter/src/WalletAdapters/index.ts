@@ -14,6 +14,6 @@ export * from './AptosSnap';
 export * from './BitkeepWallet';
 export * from './TokenPocketWallet';
 export * from './ONTOWallet';
-export * from './BloctoWallet';
+// export * from './BloctoWallet';
 export * from './Coin98Wallet';
 export * from './SafePalWallet';
